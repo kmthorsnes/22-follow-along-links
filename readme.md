@@ -1,7 +1,7 @@
 # Follow along links
 
 JS Exercises. 22th challenge of the #JavaScript30 course.
-Using JS to make CSS transition follow the mouse and links 
+Using JS to make CSS transition follow the mouse and links.
 
 ## Technology
 
